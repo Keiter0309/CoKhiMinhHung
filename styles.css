@@ -1,0 +1,319 @@
+/* Reset css */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  line-height: 1.6;
+  color: #333;
+  background-color: #f8f9fa;
+}
+
+/* Navigation */
+.navbar {
+  background-color: white;
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.navbar a {
+  color: #2c3e50;
+  text-decoration: none;
+}
+
+.nav-brand {
+  color: #2c3e50;
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.nav-links {
+  display: flex;
+  list-style: none;
+  gap: 1rem;
+}
+
+.nav-links li a {
+  color: #2c3e50;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.nav-links li a:hover,
+.nav-links li a.active {
+  background-color: #2c3e50;
+  color: white;
+}
+
+/* Main content */
+main {
+  padding: 2rem;
+  max-width: 1500px;
+  margin: 0 auto;
+  min-height: calc(100vh - 130px);
+}
+
+main h1 {
+  color: #2c3e50;
+  font-size: 2.2rem;
+  text-align: center;
+  margin: 2rem 0;
+  position: relative;
+}
+
+/* Products grid */
+/* Product Card Base Styles */
+.product-card {
+  background: white;
+  border-radius: 12px;
+  padding: 1.5rem;
+  text-align: left;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.product-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  cursor: pointer;
+}
+
+.product-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  object-fit: cover;
+}
+
+.product-card h3 {
+  color: #2c3e50;
+  font-size: 1.3rem;
+  font-weight: 600;
+  margin: 0;
+  text-align: center;
+}
+
+/* Product Brief Description */
+.product-brief {
+  color: #666;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  text-align: center;
+  margin: 0;
+}
+
+/* Specifications Styling */
+.product-specs {
+  background: #f8f9fa;
+  border-radius: 8px;
+  padding: 1rem;
+}
+
+.spec-item {
+  display: flex;
+  margin-bottom: 0.5rem;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.spec-item:last-child {
+  margin-bottom: 0;
+}
+
+.spec-label {
+  font-weight: 600;
+  min-width: 100px;
+  color: #2c3e50;
+}
+
+.spec-value {
+  color: #666;
+}
+
+/* Usage Instructions Styling */
+.product-usage {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.usage-section h4 {
+  color: #2c3e50;
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.usage-section p {
+  color: #666;
+  font-size: 0.95rem;
+  margin: 0;
+  line-height: 1.5;
+}
+
+/* Grid Layout */
+.products-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+  padding: 1rem;
+}
+
+/* Contact page styles */
+.contact-simple {
+  max-width: 600px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.contact-simple h1 {
+  color: #2c3e50;
+  font-size: 2rem;
+  margin-bottom: 2rem;
+  text-align: center;
+  position: relative;
+}
+
+.contact-simple h1:after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 3px;
+  background: #2c3e50;
+  margin: 1rem auto 0;
+}
+
+.company-name h2 {
+  color: #2c3e50;
+  font-size: 1.8rem;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.zalo-contact {
+  background: #f8f9fa;
+  padding: 1.5rem;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  transition: background 0.3s ease, transform 0.3s ease;
+}
+
+.zalo-contact:hover {
+  background: #e9ecef;
+  transform: translateY(-3px);
+}
+
+.zalo-details {
+  text-align: left;
+}
+
+.label {
+  display: block;
+  color: #6c757d;
+  font-size: 0.9rem;
+  margin-bottom: 0.3rem;
+}
+
+.zalo-number {
+  color: #0068ff;
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-decoration: none;
+  display: block;
+  transition: color 0.3s ease;
+}
+
+.zalo-number:hover {
+  color: #0056b3;
+}
+
+/* Footer */
+footer {
+  background-color: white;
+  color: #2c3e50;
+  text-align: center;
+  padding: 1rem;
+  border-top: 1px solid #eee;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .navbar {
+    padding: 1rem;
+  }
+
+  .products-grid {
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 1rem;
+  }
+
+  .contact-simple {
+    margin: 1rem;
+    padding: 1.5rem;
+  }
+
+  .company-name h2 {
+    font-size: 1.5rem;
+  }
+
+  .zalo-number {
+    font-size: 1.3rem;
+  }
+
+  .product-card {
+    padding: 1rem;
+  }
+
+  .spec-item {
+    font-size: 0.9rem;
+  }
+
+  .spec-label {
+    min-width: 90px;
+  }
+
+  .product-usage {
+    gap: 0.8rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .navbar {
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .nav-links {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .contact-simple {
+    padding: 1rem;
+  }
+
+  .zalo-contact {
+    padding: 1rem;
+  }
+}
