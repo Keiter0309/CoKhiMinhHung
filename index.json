@@ -1,0 +1,63 @@
+{
+  "438_Cọ_Chà_Sàn.png": {
+    "title": "Cọ chà sàn",
+    "specs": {
+      "Chất liệu": "Nhựa PP",
+      "Khối lượng": "90g",
+      "Kích thước": "330 x 60 x 130 mm",
+      "Màu sắc": "Trắng, Xám"
+    },
+    "usage": {
+      "Hướng dẫn sử dụng": "Dùng vệ sinh nhà tắm, toilet.",
+      "Hướng dẫn bảo quản": "Tránh xa lửa, nguồn nhiệt cao, va đập mạnh",
+      "Hạn sử dụng": "5 năm"
+    }
+  },
+  "436_Bàn_chải_giặt_Bầu.png": {
+    "title": "Bàn chải giặt Bầu",
+    "specs": {
+      "Chất liệu": "Nhựa PP",
+      "Khối lượng": "54g",
+      "Kích thước": "110 x 65 x 50 mm",
+      "Màu sắc": "Xanh, Xám"
+    },
+    "usage": {
+      "Hướng dẫn sử dụng": "Dùng để giặt, chà vết bẩn trên quần áo",
+      "Hướng dẫn bảo quản": "Tránh xa lửa, nguồn nhiệt cao, va đập mạnh"
+    }
+  },
+  "437_Bàn_chải_giặt_Tay_Cầm.png": {
+    "title": "Bàn chải giặt Tay Cầm",
+    "specs": {
+      "Chất liệu": "Nhựa PP",
+      "Khối lượng": "54g",
+      "Kích thước": "120 x 65 x 55 mm",
+      "Màu sắc": "Xám"
+    },
+    "usage": {
+      "Hướng dẫn sử dụng": "Dùng để giặt, chà vết bẩn trên quần áo",
+      "Hướng dẫn bảo quản": "Tránh xa lửa, nguồn nhiệt cao, va đập mạnh"
+    }
+  },
+  
+  "307_Bàn_chải_giặt_Tam_Giác.png": "Bàn chải giặt Tam Giác",
+  "308_Bàn_chải_giặt_Phẳng.png": "Bàn chải giặt Phẳng",
+  "309_Bàn_chải_giặt_Cong.png": "Bàn chải giặt Cong",
+  "439_Cọ_Toilet_tròn.png": "Cọ Toilet tròn",
+  "440_Cọ_Toilet_vuông.png": "Cọ Toilet vuông",
+  "441_Cây_rửa_ly.png": "Cây rửa ly",
+  "442_Cây_chà_nồi.png": "Cây chà nồi",
+  "443_Bàn_chà_tay_cầm_Fiber.png": "Bàn chà tay cầm Fiber",
+  "756_Bộ_dụng_cụ_vệ_sinh_4in1.png": "Bộ dụng cụ vệ sinh 4 In 1",
+  "BioHome_Bộ_ky_chổi_Easy_Cleaner_01.png": "Bộ ky chổi Gấp 01",
+  "BioHome_Bộ_ky_chổi_Easy_Cleaner_02.png": "Bộ ky chổi Thẳng 02",
+  "BioHome_Cọ_vuông_2in1.png": "Cọ Toilet vuông",
+  "Cọ_Toilet_tròn_Inox.png": "Bàn chải Toilet Tròn - Inox",
+  "Cây_chà_nồi_cước_Inox.png": "Cây chà nồi cước Inox",
+  "Bàn_chải_tay_cầm_Clean_Home.png": "Bàn chải cầm tay Clean Home",
+  "Bàn_chải_Clean_Home.png": " Bàn chải Clean Home",
+  "Cọ_chà_Fiber_Clean_Home.png": "Cọ chà Fiber Clean Home",
+  "Cọ_chà_sàn_Clean_Home.png": "Cọ chà sàn Clean Home",
+  "Cọ_rửa_ly_Clean_Home.png": "Cọ rửa ly Clean Home",
+  "Cọ_toilet_tròn_Clean_Home.png": "Cọ toilet tròn Clean Home"
+}
