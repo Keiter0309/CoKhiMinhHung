@@ -79,7 +79,9 @@
 
               const productCard = `
                 <div class="product-card">
-                  <img src="./images/${imageName}" alt="${title}" />
+                  <a href="./images/${imageName}" target="_blank">
+                    <img src="./images/${imageName}" alt="${title}" />
+                  </a>
                   <h3>${title}</h3>
                   <div class="product-specs">
                     ${specsHtml}

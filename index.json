@@ -5,7 +5,7 @@
       "Chất liệu": "Nhựa PP",
       "Khối lượng": "90g",
       "Kích thước": "330 x 60 x 130 mm",
-      "Màu sắc": "Trắng, Xám"
+      "Màu sắc": "Trắng Ngọc, Xanh Lá, Hồng"
     },
     "usage": {
       "Hướng dẫn sử dụng": "Dùng vệ sinh nhà tắm, toilet.",
@@ -19,10 +19,10 @@
       "Chất liệu": "Nhựa PP",
       "Khối lượng": "54g",
       "Kích thước": "110 x 65 x 50 mm",
-      "Màu sắc": "Xanh, Xám"
+      "Màu sắc": "Trắng Ngọc, Xanh Lá, Hồng"
     },
     "usage": {
-      "Hướng dẫn sử dụng": "Dùng để giặt, chà vết bẩn trên quần áo",
+      "Hướng dẫn sử dụng": "Dùng để giặt, chà vết bẩn trên quần áo.",
       "Hướng dẫn bảo quản": "Tránh xa lửa, nguồn nhiệt cao, va đập mạnh"
     }
   },
@@ -32,26 +32,176 @@
       "Chất liệu": "Nhựa PP",
       "Khối lượng": "54g",
       "Kích thước": "120 x 65 x 55 mm",
-      "Màu sắc": "Xám"
+      "Màu sắc": "Trắng Ngọc, Xanh Lá, Hồng"
     },
     "usage": {
-      "Hướng dẫn sử dụng": "Dùng để giặt, chà vết bẩn trên quần áo",
+      "Hướng dẫn sử dụng": "Dùng để giặt, chà vết bẩn trên quần áo.",
       "Hướng dẫn bảo quản": "Tránh xa lửa, nguồn nhiệt cao, va đập mạnh"
     }
   },
   
-  "307_Bàn_chải_giặt_Tam_Giác.png": "Bàn chải giặt Tam Giác",
-  "308_Bàn_chải_giặt_Phẳng.png": "Bàn chải giặt Phẳng",
-  "309_Bàn_chải_giặt_Cong.png": "Bàn chải giặt Cong",
-  "439_Cọ_Toilet_tròn.png": "Cọ Toilet tròn",
-  "440_Cọ_Toilet_vuông.png": "Cọ Toilet vuông",
-  "441_Cây_rửa_ly.png": "Cây rửa ly",
-  "442_Cây_chà_nồi.png": "Cây chà nồi",
-  "443_Bàn_chà_tay_cầm_Fiber.png": "Bàn chà tay cầm Fiber",
-  "756_Bộ_dụng_cụ_vệ_sinh_4in1.png": "Bộ dụng cụ vệ sinh 4 In 1",
-  "BioHome_Bộ_ky_chổi_Easy_Cleaner_01.png": "Bộ ky chổi Gấp 01",
-  "BioHome_Bộ_ky_chổi_Easy_Cleaner_02.png": "Bộ ky chổi Thẳng 02",
-  "BioHome_Cọ_vuông_2in1.png": "Cọ Toilet vuông",
+  "307_Bàn_chải_giặt_Tam_Giác.png": {
+    "title": "Bàn chải giặt Tam Giác",
+    "specs": {
+      "Chất liệu": "Nhựa PP",
+      "Khối lượng": "40g",
+      "Kích thước": "110 x 50 x 50 mm",
+      "Màu sắc": "Trắng Ngọc, Xanh Lá, Hồng"
+    },
+    "usage": {
+      "Hướng dẫn sử dụng": "Dùng để giặt, chà vết bẩn trên quần áo.",
+      "Hướng dẫn bảo quản": "Tránh xa lửa, nguồn nhiệt cao, va đập mạnh"
+    }
+  },
+  "308_Bàn_chải_giặt_Phẳng.png": {
+    "title": "Bàn chải giặt Phẳng",
+    "specs": {
+      "Chất liệu": "Nhựa PP",
+      "Khối lượng": "44g",
+      "Kích thước": "110 x 50 x 50 mm",
+      "Màu sắc": "Trắng Ngọc, Xanh Lá, Hồng"
+    },
+    "usage": {
+      "Hướng dẫn sử dụng": "Dùng để giặt, chà vết bẩn trên quần áo.",
+      "Hướng dẫn bảo quản": "Tránh xa lửa, nguồn nhiệt cao, va đập mạnh"
+    }
+  },
+  "309_Bàn_chải_giặt_Cong.png": {
+    "title": "Bàn chải giặt Cong",
+    "specs": {
+      "Chất liệu": "Nhựa PP",
+      "Khối lượng": "64g",
+      "Kích thước": "120 x 65 x 60 mm",
+      "Màu sắc": "Trắng Ngọc, Xanh Lá, Hồng"
+    },
+    "usage": {
+      "Hướng dẫn sử dụng": "Dùng để giặt, chà vết bẩn trên quần áo.",
+      "Hướng dẫn bảo quản": "Tránh xa lửa, nguồn nhiệt cao, va đập mạnh"
+    }
+  },
+  "439_Cọ_Toilet_tròn.png": {
+    "title": "Cọ Toilet tròn",
+    "specs": {
+      "Chất liệu": "Nhựa PP",
+      "Khối lượng": "119g",
+      "Kích thước": "140 x 85 mm",
+      "Màu sắc": "Trắng Ngọc, Xanh Lá, Hồng"
+    },
+    "usage": {
+      "Hướng dẫn sử dụng": "Dùng để vệ sinh nhà tắm, toilet.",
+      "Hướng dẫn bảo quản": "Tránh xa lửa, nguồn nhiệt cao, va đập mạnh",
+      "Hạn sử dụng":"5 năm"
+    }
+  },
+  "440_Cọ_Toilet_vuông.png": {
+    "title":"Cọ Toilet vuông",
+    "specs": {
+      "Chất liệu": "Nhựa PP",
+      "Khối lượng": "123g",
+      "Kích thước": "450 x 55 x 210 mm",
+      "Màu sắc": "Trắng Ngọc, Xanh Lá, Hồng"
+    },
+    "usage": {
+      "Hướng dẫn sử dụng": "Dùng để vệ sinh nhà tắm, toilet.",
+      "Hướng dẫn bảo quản": "Tránh xa lửa, nguồn nhiệt cao, va đập mạnh",
+      "Hạn sử dụng":"5 năm"
+    }
+  },
+  "441_Cây_rửa_ly.png": {
+    "title":"Cây rửa ly",
+    "specs": {
+      "Chất liệu": "Nhựa PP",
+      "Khối lượng": "25g",
+      "Kích thước": "260 x 60 mm",
+      "Màu sắc": "Trắng Ngọc, Xanh Lá, Hồng"
+    },
+    "usage": {
+      "Hướng dẫn sử dụng": "Dùng vệ sinh dụng cụ nhà bếp.",
+      "Hướng dẫn bảo quản": "Tránh xa lửa, nguồn nhiệt cao, va đập mạnh",
+      "Hạn sử dụng":"5 năm"
+    }
+  },
+  "442_Cây_chà_nồi.png": {
+    "title":"Cây chà nồi",
+    "specs": {
+      "Chất liệu": "Nhựa PP",
+      "Khối lượng": "48g",
+      "Kích thước": "250 x 60 x 55 mm",
+      "Màu sắc": "Trắng Ngọc, Xanh Lá, Hồng"
+    },
+    "usage": {
+      "Hướng dẫn sử dụng": "Dùng vệ sinh dụng cụ nhà bếp.",
+      "Hướng dẫn bảo quản": "Tránh xa lửa, nguồn nhiệt cao, va đập mạnh",
+      "Hạn sử dụng":"5 năm"
+    }
+  },
+  "443_Bàn_chà_tay_cầm_Fiber.png": {
+    "title":"Bàn chà tay cầm Fiber",
+    "specs": {
+      "Chất liệu": "Nhựa PP",
+      "Khối lượng": "48g",
+      "Kích thước": "135 x 80 x 55 mm",
+      "Màu sắc": "Trắng Ngọc, Xanh Lá, Hồng"
+    },
+    "usage": {
+      "Hướng dẫn sử dụng": "Dùng vệ sinh nhà tắm, toilet.",
+      "Hướng dẫn bảo quản": "Tránh xa lửa, nguồn nhiệt cao, va đập mạnh",
+      "Hạn sử dụng":"5 năm"
+    }
+  },
+  "756_Bộ_dụng_cụ_vệ_sinh_4in1.png": {
+    "title":"Bộ dụng cụ vệ sinh 4 In 1",
+    "specs": {
+      "Chất liệu": "Nhựa PP, Inox",
+      "Kích thước": "250 x 60 x 55 mm",
+      "Màu sắc": "Trắng Ngọc, Xanh Lá, Hồng"
+    },
+    "usage": {
+      "Hướng dẫn sử dụng": "Dùng vệ sinh nhà cửa.",
+      "Hướng dẫn bảo quản": "Tránh xa lửa, nguồn nhiệt cao, va đập mạnh",
+      "Hạn sử dụng":"5 năm"
+    }
+  },
+  "BioHome_Bộ_ky_chổi_Easy_Cleaner_01.png": {
+    "title":"Bộ ky chổi Gấp 01",
+    "specs": {
+      "Chất liệu": "Nhựa PP, Inox",
+      "Kích thước": "250 x 60 x 55 mm",
+      "Màu sắc": "Trắng Ngọc, Xanh Lá, Hồng"
+    },
+    "usage": {
+      "Hướng dẫn sử dụng": "Dùng vệ sinh nhà cửa.",
+      "Hướng dẫn bảo quản": "Tránh xa lửa, nguồn nhiệt cao, va đập mạnh",
+      "Hạn sử dụng":"5 năm"
+    }
+  },
+  "BioHome_Bộ_ky_chổi_Easy_Cleaner_02.png": {
+    "title":"Bộ ky chổi Gấp 01",
+    "specs": {
+      "Chất liệu": "Nhựa PP, Inox",
+      "Kích thước": "250 x 60 x 55 mm",
+      "Màu sắc": "Trắng Ngọc, Xanh Lá, Hồng"
+    },
+    "usage": {
+      "Hướng dẫn sử dụng": "Dùng vệ sinh nhà cửa.",
+      "Hướng dẫn bảo quản": "Tránh xa lửa, nguồn nhiệt cao, va đập mạnh",
+      "Hạn sử dụng":"5 năm"
+    }
+  },
+  "BioHome_Cọ_vuông_2in1.png": {
+    "title":"Cọ Toilet vuông 2 In 1",
+    "specs": {
+      "Chất liệu": "Nhựa PP, Inox",
+      "Khối lượng": "64g",
+      "Kích thước": "440 x 85 x 55 mm",
+      "Màu sắc": "Trắng Ngọc, Xanh Lá, Hồng"
+    },
+    "usage": {
+      "Hướng dẫn sử dụng": "Dùng vệ sinh nhà tắm, toilet.",
+      "Hướng dẫn bảo quản": "Tránh xa lửa, nguồn nhiệt cao, va đập mạnh",
+      "Hạn sử dụng":"5 năm"
+    }
+  },
   "Cọ_Toilet_tròn_Inox.png": "Bàn chải Toilet Tròn - Inox",
   "Cây_chà_nồi_cước_Inox.png": "Cây chà nồi cước Inox",
   "Bàn_chải_tay_cầm_Clean_Home.png": "Bàn chải cầm tay Clean Home",
