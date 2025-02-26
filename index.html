@@ -38,7 +38,9 @@
               if (typeof product === "string") {
                 const productCard = `
                   <div class="product-card">
-                    <img src="./images/${imageName}" alt="${product}" />
+                    <a href="./images/${imageName}" target="_blank">
+                      <img src="./images/${imageName}" alt="${product}" />
+                    </a>
                     <h3>${product}</h3>
                     <p>Thông tin đang cập nhật</p>
                   </div>
