@@ -202,8 +202,34 @@
       "Hạn sử dụng":"5 năm"
     }
   },
-  "Cọ_Toilet_tròn_Inox.png": "Bàn chải Toilet Tròn - Inox",
-  "Cây_chà_nồi_cước_Inox.png": "Cây chà nồi cước Inox",
+  "Cọ_Toilet_tròn_Inox.png": {
+    "title":"Bàn chải Toilet Tròn - Inox",
+    "specs": {
+      "Chất liệu": "Nhựa PP",
+      "Khối lượng": "64g",
+      "Kích thước": "125 x 65 x 55 mm",
+      "Màu sắc": "Trắng Ngọc, Xanh Lá, Hồng"
+    },
+    "usage": {
+      "Hướng dẫn sử dụng": "Dùng vệ sinh nhà tắm, toilet.",
+      "Hướng dẫn bảo quản": "Tránh xa lửa, nguồn nhiệt cao, va đập mạnh",
+      "Hạn sử dụng":"5 năm"
+    }
+  },
+  "Cây_chà_nồi_cước_Inox.png": {
+    "title":"Bàn chải Toilet Tròn - Inox",
+    "specs": {
+      "Chất liệu": "Nhựa PP",
+      "Khối lượng": "45g",
+      "Kích thước": "250 x 60 x 55 mm",
+      "Màu sắc": "Trắng Ngọc, Xanh Lá, Hồng"
+    },
+    "usage": {
+      "Hướng dẫn sử dụng": "Dùng để vệ sinh nhà tắm, bếp,...",
+      "Hướng dẫn bảo quản": "Tránh xa lửa, nguồn nhiệt cao, va đập mạnh",
+      "Hạn sử dụng":"5 năm"
+    }
+  },
   "Bàn_chải_tay_cầm_Clean_Home.png": "Bàn chải cầm tay Clean Home",
   "Bàn_chải_Clean_Home.png": " Bàn chải Clean Home",
   "Cọ_chà_Fiber_Clean_Home.png": "Cọ chà Fiber Clean Home",
